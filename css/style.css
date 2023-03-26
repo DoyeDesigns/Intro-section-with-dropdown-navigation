@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 1.125rem;
+    background-color: hsl(0, 0%, 98%);
+}
+
+#dropdown-container button img {
+    margin-left: .625rem;
+}
+
+#dropDown-2ndbtn svg {
+    margin-left: .625rem;
+}
+
+.block {
+    display: block;
+}
+
+#dropdown svg {
+    margin-right: .625rem;
+}
+
+#dropDown-btn-sidenav svg {
+    margin-left: .625rem;
+}
+
+#dropdown-sidenav svg {
+    margin-right: .625rem;
+}
+
+
+
