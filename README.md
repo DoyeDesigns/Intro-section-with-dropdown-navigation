@@ -14,13 +14,13 @@ It is also very responsive.
 - Javascript
 
 ## Links
-Live link - https://news-homepage-inky-eight.vercel.app/
+Live link - https://intro-section-with-dropdown-navigation-plum.vercel.app/
 
 
 ## Desktop view
 
-![Desktop view](/assets/images/mobile-view-news-homepage-inky-eight-vercel-app-2023-02-18-13_33_01.png)
+![Desktop view](/images/intro%20section%20with%20dropdown%20navigation.png)
 
 ## Mobile view
 
-![Mobile view](/assets/images/desktop-view-news-homepage-inky-eight-vercel-app-2023-02-18-13_20_46.png)
+![Mobile view](/images/mobile-intro-section-with-dropdown-navigation-plum-vercel-app-2023-03-27-06_25_25.png)
