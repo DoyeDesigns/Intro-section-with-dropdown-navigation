@@ -1,4 +1,4 @@
-# Intro section with ddropdown navigation menu
+# Intro section with dropdown navigation menu
 This is an application built using html, tailwind CSS and javascript. 
 
 It is also very responsive.
